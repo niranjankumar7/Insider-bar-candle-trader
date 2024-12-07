@@ -1,4 +1,4 @@
-# Stocks-analyst
+# Daily Frame Insider candle backtesting tool
 
 Personal Stock market assistant.
 
